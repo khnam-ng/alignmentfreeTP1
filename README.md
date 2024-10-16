@@ -1,6 +1,8 @@
-# RENDU - PHYG_TP_1
+# RENDU - PHYG_KMERS_Phase2
 
 ## Khanh Nam NGUYEN
+
+#### a few minutes late cause of new data folder. Its too large and I can't push it to github then I have to figure out how to reset HEAD and rebase the branch.
 
 ### Rendu_1: At this point, I did a mistake in nested loops where the execution time has been doubled.
 real	8m35.929s
@@ -66,4 +68,3 @@ real	4m39.455s
 user	4m38.402s
 sys	0m0.913s
 
-#### a few minutes late cause of new data folder. Its too large and I can't push it to github then I have to figure out how to reset HEAD and rebase the branch.
