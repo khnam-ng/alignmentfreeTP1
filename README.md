@@ -2,7 +2,8 @@
 
 ## Khanh Nam NGUYEN
 
-#### a few minutes late cause of new data folder. Its too large and I can't push it to github then I have to figure out how to reset HEAD and rebase the branch.
+#### A few minutes late cause of new data folder. Its too large and I can't push it to github then I have to figure out how to reset HEAD and rebase the branch.
+#### My code from last version is also deleted.
 
 ### Rendu_1: At this point, I did a mistake in nested loops where the execution time has been doubled.
 real	8m35.929s
